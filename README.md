@@ -1,5 +1,7 @@
 # Feedforward neural networks
-PyTorch implementation of logistic regression and feedforward neural networks. I also provide slides from my NLP course to understand feedforward neural networks.
+PyTorch implementation of logistic regression and feedforward neural networks based on *Dan Jurafsky and James H. Martin (2024). Speech and Language Processing (3rd ed. draft).* I also provide slides from my NLP course to understand feedforward neural networks.
+
+See also:
 
 - [N-grams](https://github.com/gustavecortal/ngram)
 - [Naive bayes](https://github.com/gustavecortal/naive-bayes)
